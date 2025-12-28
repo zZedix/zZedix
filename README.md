@@ -17,29 +17,59 @@
 ---
 
 ## 🧠 About Me
-```diff
-+ Passionate about cybersecurity & automation
-+ Breaking systems to understand them
-+ Writing clean, efficient and secure code
-🔐 Focused on Cyber Security & Cryptography
 
-🐍 Python addict
+- 🔐 Passionate about cybersecurity & automation  
+- 🧪 Breaking systems to understand them  
+- ✍️ Writing clean, efficient and secure code  
 
-🧪 Always experimenting, always learning
+🔐 Focused on **Cyber Security & Cryptography**  
+🐍 Python addict  
+🧪 Always experimenting, always learning  
+🌙 Linux lover & terminal dweller  
 
-🌙 Linux lover & terminal dweller
+---
 
-🛠 Tech Stack
-🧩 Languages
+## 🛠 Tech Stack
+
+### 🧩 Languages
 <img src="https://skillicons.dev/icons?i=python,bash,js&theme=dark" />
-⚙️ Tools & Platforms
+
+### ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" />
-📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=zZedix&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zZedix&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZedix&layout=compact&theme=tokyonight&hide_border=true" />
-🧪 Activity Graph
+
+---
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=zZedix&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zZedix&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZedix&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+## 🧪 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zZedix&theme=tokyo-night&hide_border=true" />
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/zZedix"><img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://t.me/zedixray"><img src="https://img.shields.io/badge/Telegram-0f2027?style=for-the-badge&logo=telegram&logoColor=white"/></a> </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/zZedix">
+<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://t.me/zedixray">
+<img src="https://img.shields.io/badge/Telegram-0f2027?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+</p>
+
+---
+
 <div align="center">
-🛡️ Securing the digital world, one line of code at a time!
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /> ```
+
+🛡️ **Securing the digital world, one line of code at a time!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
