@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=zZedix&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=zZedix&fontSize=60&fontColor=ffffff&animation=fadeIn"
+/>
 
 </div>
 
 <h2 align="center">👾 Welcome to my digital domain</h2>
 
 <p align="center">
-💻 Security Researcher • 🐍 Python Developer • 🌐 Network & Crypto Enthusiast  
+💻 Security Researcher • 🐍 Python Developer • 🌐 Network & Crypto Enthusiast
 </p>
 
 <p align="center">
@@ -41,14 +44,15 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=zZedix&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zZedix&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZedix&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=zZedix&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-## 🧪 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zZedix&theme=tokyo-night&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=zZedix&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZedix&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
 
 ---
 
@@ -67,9 +71,13 @@
 
 <div align="center">
 
-🛡️ **Securing the digital world, one line of code at a time!**
+### 🛡️ Securing the digital world, one line of code at a time!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer"
+  />
+</div>
